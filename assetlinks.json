@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.unknownenergy.twa",
+      "sha256_cert_fingerprints":
+        ["B2:E8:B3:CD:BA:41:9D:6D:42:3C:89:37:08:1D:CD:C7:C0:77:D8:0C:E1:40:A1:BE:09:62:E9:69:6B:0C:8B:36"]
+    }
+  }
+]
